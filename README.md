@@ -1,0 +1,2 @@
+# Strict
+My strict project
